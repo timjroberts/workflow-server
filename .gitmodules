@@ -1,4 +1,4 @@
 [submodule "history"]
 	path = history
-	url = https://github.com/m2ux/ai-metadata.git
+	url = https://github.com/timjroberts/ai-agent-metadata.git
 	branch = workflow-server
